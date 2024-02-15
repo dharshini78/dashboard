@@ -1,0 +1,36 @@
+.notifications{
+    min-height: 100vh;
+    overflow-y: auto ;
+    background-color: #0F1932;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containernoti{
+    width: 600px;
+    height: 700px;
+    border: 1px solid gray;
+    padding: 1rem;
+
+}
+
+.smallcontainer{
+    border: 1px solid grey;
+    padding: 2rem;
+}
+
+.noticlaim{
+    
+    width: 140px;
+    margin-left: 5rem;
+    height: 2rem;    
+    background-color: #FF8700;
+    margin-top: 1rem;
+    
+}
+
+.noticlaim:hover{
+    background-color: transparent;
+}

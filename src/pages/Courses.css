@@ -1,0 +1,91 @@
+.coursesContainer{
+    background-color: #0f1932;
+    min-height: 100vh;
+    width: 100%;
+    overflow-y: auto ;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 1rem;
+    
+}
+
+
+
+.videoCard{
+    display: flex;
+    margin-top: 60px;
+    color: white;
+    background-color: #384663;
+    padding: 2rem;
+    
+    
+
+
+}
+
+.courseimg{
+    height: 200px;
+    width: 350px;
+    background-color: aliceblue;
+}
+
+.columnfonts{
+    padding: 20px;
+    line-height: 2rem;
+}
+
+li{
+    list-style: none;
+    color: beige;
+}
+
+.progressbar{
+    width: 80%;
+    height: 30px;
+    background-color: #FF8700;
+    font-size: .9rem;
+    text-align: center;
+}
+
+.coursetitle{
+    margin-bottom: 1rem;
+}
+
+.buttonsofclaim{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 350px;
+    align-items: center;
+    
+}
+
+button{
+    height: 40px;
+    margin-right: 20px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid #FF8700;
+    color: white;
+
+}
+
+button:hover{
+    background-color: #FF8700;
+    transition: .3s ease-in-out;
+}
+
+.view{
+    width: 80px;
+}
+
+.claim{
+    width: 150px;
+}
+
+img{
+    height: 200px;
+    width: 350px;
+}

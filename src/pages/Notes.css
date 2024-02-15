@@ -1,0 +1,24 @@
+.uploads{
+    min-height: 100vh;
+    background-color: #0F1932;
+    width: 100%;
+    display: flex;
+    
+    align-items: center;
+    padding-top: 3rem;
+    color: white;
+    flex-direction: column;
+    text-align: start;
+    
+}
+
+.multiple{
+    height: 200px;
+    width: 700px;
+    background-color: #384663;
+
+}
+
+.textupload{
+    
+}
