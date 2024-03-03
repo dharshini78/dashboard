@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+ <img src="https://raw.githubusercontent.com/dharshini78/Garuda_FINAL/master/coursedash.jpg" data-canonical-src="https://raw.githubusercontent.com/dharshini78/Garuda_FINAL/master/coursedash.jpg" width="756" height="406"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
